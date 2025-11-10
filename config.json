@@ -1,0 +1,55 @@
+{
+  "enabled": true,
+  "auto_update_hours": 6,
+
+  "currency_limits": {
+    "GBP": 4,
+    "AUD": 7
+  },
+
+  "disable_to_pay": true,
+  "refresh_interval": 2000,
+
+  "workers": {
+    "postcode_tracking": 10
+  },
+
+  "visibility_rules": {
+    "uk_disable_price": true,
+    "aud_hide_price": true
+  },
+
+  "cards": {
+    "default": {
+      "enabled": true,
+      "hide_radio_above": 4,
+      "currency": "GBP",
+      "label": "Default Card",
+      "allow_pay_above_limit": false
+    },
+    "AU": {
+      "enabled": true,
+      "hide_radio_above": 7,
+      "currency": "AUD",
+      "label": "Australia Card",
+      "allow_pay_above_limit": false
+    }
+  },
+
+  "allowed_cards": [
+    "3512",
+    "0502",
+    "7191",
+    "1788",
+    "5657",
+    "1506",
+    "4058",
+    "5238",
+    "8400",
+    "1389"
+  ],
+
+  "csv_export_enabled": true,
+  "bulk_cancel_enabled": true,
+  "show_panel_default": true
+}
