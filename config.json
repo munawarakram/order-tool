@@ -7,7 +7,7 @@
     "AUD": 7
   },
 
-  "disable_to_pay": false,
+  "disable_to_pay": true,
   "refresh_interval": 2000,
 
   "workers": {
