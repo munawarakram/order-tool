@@ -22,7 +22,7 @@
   "cards": {
     "default": {
       "enabled": true,
-      "hide_radio_above": 4,
+      "hide_radio_above": 1.4,
       "currency": "GBP",
       "label": "Default Card",
       "allow_pay_above_limit": false
