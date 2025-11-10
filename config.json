@@ -11,7 +11,7 @@
   "refresh_interval": 2000,
 
   "workers": {
-    "postcode_tracking": 10
+    "postcode_tracking": 2
   },
 
   "visibility_rules": {
