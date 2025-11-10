@@ -22,7 +22,7 @@
   "cards": {
     "default": {
       "enabled": true,
-      "hide_radio_above": 4,
+      "hide_radio_above": 1,
       "currency": "GBP",
       "label": "Default Card",
       "allow_pay_above_limit": false
@@ -46,7 +46,8 @@
     "4058",
     "5238",
     "8400",
-    "1389"
+    "1389",
+     "1234"
   ],
 
   "csv_export_enabled": true,
