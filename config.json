@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -12,7 +12,7 @@
   "refresh_interval": 2000,
 
   "workers": {
-    "postcode_tracking": 5
+    "postcode_tracking": 10
   },
 
   "visibility_rules": {
