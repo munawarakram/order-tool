@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -54,4 +54,9 @@
   "csv_export_enabled": true,
   "bulk_cancel_enabled": true,
   "show_panel_default": true
+},
+{
+  "features": {
+    "duplicate_checker": true
+  }
 }
