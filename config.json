@@ -1,9 +1,10 @@
 {
+  "version": 26,
   "enabled": true,
   "auto_update_hours": 6,
 
   "currency_limits": {
-    "GBP":6,
+    "GBP": 4,
     "AUD": 7
   },
 
@@ -11,7 +12,7 @@
   "refresh_interval": 2000,
 
   "workers": {
-    "postcode_tracking": 2
+    "postcode_tracking": 10
   },
 
   "visibility_rules": {
@@ -47,7 +48,7 @@
     "5238",
     "8400",
     "1389",
-     "4545"
+    "4545"
   ],
 
   "csv_export_enabled": true,
