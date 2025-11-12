@@ -29,7 +29,7 @@
       "allow_pay_above_limit": false
     },
     "AU": {
-      "enabled": true,
+      "enabled": false,
       "hide_radio_above": 7,
       "currency": "AUD",
       "label": "Australia Card",
