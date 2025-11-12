@@ -1,10 +1,10 @@
 {
-  "version": 31,
+  "version": 32,
   "enabled": true,
   "auto_update_hours": 6,
 
   "currency_limits": {
-    "GBP": 4,
+    "GBP": 5,
     "AUD": 7
   },
 
