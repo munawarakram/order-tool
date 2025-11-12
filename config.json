@@ -3,7 +3,7 @@
   "auto_update_hours": 6,
 
   "currency_limits": {
-    "GBP": 4,
+    "GBP": 2,
     "AUD": 7
   },
 
@@ -22,7 +22,7 @@
   "cards": {
     "default": {
       "enabled": true,
-      "hide_radio_above": 2,
+      "hide_radio_above": 4,
       "currency": "GBP",
       "label": "Default Card",
       "allow_pay_above_limit": false
