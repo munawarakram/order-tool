@@ -4,7 +4,7 @@
   "auto_update_hours": 6,
 
   "currency_limits": {
-    "GBP": 2,
+    "GBP": 3,
     "AUD": 7
   },
 
