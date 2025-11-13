@@ -1,11 +1,11 @@
 {
-  "version": 41,
+  "version": 42,
   "enabled": true,
   "auto_update_hours": 6,
 
   "currency_limits": {
     "GBP": 5,
-    "AUD": 10
+    "AUD": 15
   },
 
   "disable_to_pay": true,
@@ -30,7 +30,7 @@
     },
     "AU": {
       "enabled": false,
-      "hide_radio_above": 10,
+      "hide_radio_above": 15,
       "currency": "AUD",
       "label": "Australia Card",
       "allow_pay_above_limit": false
