@@ -56,6 +56,6 @@
   "show_panel_default": true,
 
   "features": {
-    "duplicate_checker": true
+    "duplicate_checker": false
   }
 }
