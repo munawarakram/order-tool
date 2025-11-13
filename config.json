@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 46,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -10,16 +10,14 @@
     "AUD": 15
   },
 
-  "disable_to_pay": true,
-  "refresh_interval": 2000,
-
-  "workers": {
-    "postcode_tracking": 10
+  "limit_rules": {
+    "uk_limit_enabled": true,
+    "au_limit_enabled": true
   },
 
-  "visibility_rules": {
-    "uk_disable_price": true,
-    "aud_hide_price": true
+  "to_pay_rules": {
+    "disable_label_uk": true,
+    "disable_label_au": true
   },
 
   "cards": {
@@ -31,7 +29,7 @@
       "allow_pay_above_limit": false
     },
     "AU": {
-      "enabled": false,
+      "enabled": true,
       "hide_radio_above": 15,
       "currency": "AUD",
       "label": "Australia Card",
