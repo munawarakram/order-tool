@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -57,9 +57,7 @@
 
   "features": {
     "duplicate_checker": false
-  },
-  "sorting_rules": {
-    "move_disabled_bottom": true
-}
+  }
+  
   
 }
