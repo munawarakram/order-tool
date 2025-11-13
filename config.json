@@ -57,5 +57,9 @@
 
   "features": {
     "duplicate_checker": false
-  }
+  },
+  "sorting_rules": {
+    "move_disabled_bottom": true
+}
+  
 }
