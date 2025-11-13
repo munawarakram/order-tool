@@ -1,11 +1,11 @@
 {
-  "version": 40,
+  "version": 41,
   "enabled": true,
   "auto_update_hours": 6,
 
   "currency_limits": {
     "GBP": 5,
-    "AUD": 7
+    "AUD": 10
   },
 
   "disable_to_pay": true,
