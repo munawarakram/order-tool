@@ -1,7 +1,9 @@
 {
-  "version": 42,
+  "version": 43,
   "enabled": true,
   "auto_update_hours": 6,
+
+  "order_select_limit": 10,
 
   "currency_limits": {
     "GBP": 5,
