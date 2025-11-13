@@ -12,7 +12,7 @@
 
   "limit_rules": {
     "uk_limit_enabled": true,
-    "au_limit_enabled": true
+    "au_limit_enabled": false
   },
 
   "to_pay_rules": {
