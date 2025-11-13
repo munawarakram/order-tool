@@ -57,7 +57,9 @@
 
   "features": {
     "duplicate_checker": false
+  },
+  "workers": {
+    "postcode_tracking": 10
   }
-  
   
 }
