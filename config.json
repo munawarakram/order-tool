@@ -7,12 +7,12 @@
 
   "currency_limits": {
     "GBP": 5,
-    "AUD": 15
+    "AUD": 13
   },
 
   "limit_rules": {
     "uk_limit_enabled": true,
-    "au_limit_enabled": false
+    "au_limit_enabled": true
   },
 
   "to_pay_rules": {
