@@ -12,12 +12,12 @@
 
   "limit_rules": {
     "uk_limit_enabled": true,
-    "au_limit_enabled": true
+    "au_limit_enabled": false
   },
 
   "to_pay_rules": {
     "disable_label_uk": true,
-    "disable_label_au": true
+    "disable_label_au": false
   },
 
   "cards": {
