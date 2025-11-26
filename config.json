@@ -6,7 +6,7 @@
   "order_select_limit": 10,
 
   "currency_limits": {
-    "GBP": 5,
+    "GBP": 6,
     "AUD": 13
   },
 
