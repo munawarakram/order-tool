@@ -7,7 +7,7 @@
 
   "currency_limits": {
     "GBP": 6,
-    "AUD": 13
+    "AUD": 50
   },
 
   "limit_rules": {
@@ -29,7 +29,7 @@
       "allow_pay_above_limit": false
     },
     "AU": {
-      "enabled": true,
+      "enabled": false,
       "hide_radio_above": 15,
       "currency": "AUD",
       "label": "Australia Card",
