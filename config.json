@@ -3,7 +3,7 @@
   "enabled": true,
   "auto_update_hours": 6,
 
-  "order_select_limit": 16,
+  "order_select_limit": 20,
 
   "currency_limits": {
     "GBP": 6,
