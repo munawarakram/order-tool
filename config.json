@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -56,7 +56,9 @@
   "skip_keywords": [
   "Hot Game Minecrafts",
     "WeAct STM32U585CIU6",
+    "WeAct USB to",
     "Large Strong Black"
+  
   
 ],
 
