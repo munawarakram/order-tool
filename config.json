@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "enabled": true,
   "auto_update_hours": 6,
 
@@ -47,13 +47,17 @@
     "4058",
     "5238",
     "8400",
-    "1389", 
+    "1389",
     "0325",
     "5070",
-    "5070",   
-
     "3278"
   ],
+
+  "skip_keywords": [
+  "Hot Game Minecrafts",
+    "Large Strong Black"
+  
+],
 
   "csv_export_enabled": true,
   "bulk_cancel_enabled": true,
@@ -62,8 +66,8 @@
   "features": {
     "duplicate_checker": false
   },
+
   "workers": {
     "postcode_tracking": 10
   }
-  
 }
